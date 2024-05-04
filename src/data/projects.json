@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Raah-ngo",
+    "imageSrc": "projects/raah-ngo.jpg",
+    "description": "This is a website of ngo named 'Raah'.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/GneyaPatel/Raah_ngo"
+  },
+  {
+    "title": "The venue Restaurant",
+    "imageSrc": "projects/cafe.png",
+    "description": "This is a project of the restaurant.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/GneyaPatel/cafe"
+  },
+  {
+    "title": "Eonic_India",
+    "imageSrc": "projects/eonic_india.png",
+    "description": "This is a website of  Online Hardware Showcase.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/GneyaPatel/eonic_india"
+  }
+]

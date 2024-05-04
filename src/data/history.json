@@ -1,0 +1,21 @@
+[
+  {
+    "role": "React Developer Intern",
+    "organisation": "Infolabz IT services pvy ltd.",
+    "startDate": "January, 2024",
+    "endDate": "Present",
+    "experiences": ["Worked on Live project - raah "],
+    "imageSrc": "history/infolabz.jpg"
+  },
+  {
+    "role": "React developer Intern",
+    "organisation": "Infolabz IT services PVT ltd.",
+    "startDate": "July, 2023",
+    "endDate": "Augest, 2023",
+    "experiences": [
+      "Worked on component library",
+      "Helped create UI components"
+    ],
+    "imageSrc": "history/infolabz.jpg"
+  }
+]

@@ -12,7 +12,7 @@
     "imageSrc": "projects/cafe.png",
     "description": "This is a project of the restaurant.",
     "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
+    "demo": "https://thevenuerestaurant.netlify.app/",
     "source": "https://github.com/GneyaPatel/cafe"
   },
   {

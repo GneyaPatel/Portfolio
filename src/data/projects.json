@@ -20,7 +20,7 @@
     "imageSrc": "projects/eonic_india.png",
     "description": "This is a website of  Online Hardware Showcase.",
     "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
+    "demo": "https://eonicindias.netlify.app/",
     "source": "https://github.com/GneyaPatel/eonic_india"
   }
 ]

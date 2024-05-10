@@ -4,7 +4,7 @@
     "imageSrc": "projects/raah-ngo.jpg",
     "description": "This is a website of ngo named 'Raah'.",
     "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
+    "demo": "https://raah-ngo.netlify.app/",
     "source": "https://github.com/GneyaPatel/Raah_ngo"
   },
   {

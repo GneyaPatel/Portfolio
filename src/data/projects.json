@@ -5,7 +5,7 @@
     "description": "This is a website of ngo named 'Raah'.",
     "skills": ["React", "Express", "Node"],
     "demo": "https://raah-ngo.netlify.app/",
-    "source": "https://github.com/GneyaPatel/Raah_ngo"
+    "source": "https://github.com/GneyaPatel/WebApplication-projects/tree/main/Raah-ngo"
   },
   {
     "title": "The venue Restaurant",
@@ -13,7 +13,7 @@
     "description": "This is a project of the restaurant.",
     "skills": ["React", "Express", "Node"],
     "demo": "https://thevenuerestaurant.netlify.app/",
-    "source": "https://github.com/GneyaPatel/cafe"
+    "source": "https://github.com/GneyaPatel/WebApplication-projects/tree/main/The_Venue"
   },
   {
     "title": "Eonic_India",
@@ -21,6 +21,22 @@
     "description": "This is a website of  Online Hardware Showcase.",
     "skills": ["React", "Express", "Node"],
     "demo": "https://eonicindias.netlify.app/",
-    "source": "https://github.com/GneyaPatel/eonic_india"
+    "source": "https://github.com/GneyaPatel/WebApplication-projects/tree/main/eonic_india-master"
+  },
+  {
+    "title": "Counter Application",
+    "imageSrc": "projects/counter.png",
+    "description": "This is a website of  Online Hardware Showcase.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://couterapplication.netlify.app/",
+    "source": "https://github.com/GneyaPatel/WebApplication-projects/tree/main/counter%20app"
+  },
+  {
+    "title": "Agenda",
+    "imageSrc": "projects/agenda.png",
+    "description": "This is a website of  Online Hardware Showcase.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://agendweb.netlify.app/",
+    "source": "https://github.com/GneyaPatel/WebApplication-projects/tree/main/todolist"
   }
 ]

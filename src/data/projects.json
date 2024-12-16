@@ -4,7 +4,6 @@
     "imageSrc": "projects/raah-ngo.jpg",
     "description": "This is a website of ngo named 'Raah'.",
     "skills": ["React", "Express", "Node"],
-    "demo": "https://raah-ngo.netlify.app/",
     "source": "https://github.com/GneyaPatel/WebApplication-projects/tree/main/Raah-ngo"
   },
   {
@@ -12,7 +11,6 @@
     "imageSrc": "projects/cafe.png",
     "description": "This is a project of the restaurant.",
     "skills": ["React", "CSS", "JS","Bootstrap"],
-    "demo": "https://thevenuerestaurant.netlify.app/",
     "source": "https://github.com/GneyaPatel/WebApplication-projects/tree/main/The_Venue"
   },
   {
@@ -20,15 +18,20 @@
     "imageSrc": "projects/eonic_india.png",
     "description": "This is a website of  Online Hardware Showcase.",
     "skills": ["React", "Express", "Node"],
-    "demo": "https://eonicindias.netlify.app/",
     "source": "https://github.com/GneyaPatel/WebApplication-projects/tree/main/eonic_india-master"
+  },
+  {
+    "title": "Blog Website",
+    "imageSrc": "projects/blog.png",
+    "description": "This is a website of Blogs.",
+    "skills": ["React","Tailwind css"],
+    "source": "https://github.com/GneyaPatel/modern-react-js-blog-starter-files"
   },
   {
     "title": "Counter Application",
     "imageSrc": "projects/counter.png",
     "description": "This is a website of  Online Hardware Showcase.",
     "skills": ["React"],
-    "demo": "https://couterapplication.netlify.app/",
     "source": "https://github.com/GneyaPatel/WebApplication-projects/tree/main/counter%20app"
   },
   {
@@ -36,7 +39,6 @@
     "imageSrc": "projects/agenda.png",
     "description": "This is a website of  Online Hardware Showcase.",
     "skills": ["React"],
-    "demo": "https://agendweb.netlify.app/",
     "source": "https://github.com/GneyaPatel/WebApplication-projects/tree/main/todolist"
   }
 ]
